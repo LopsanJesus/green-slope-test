@@ -1,6 +1,9 @@
 # Green Slope Test
 
-### .env config
+## Configuración de .env
 
-REACT_APP_TOKEN_USERNAME=<your_username>
-REACT_APP_TOKEN_PASSWORD=<your_password>
+```plaintext
+REACT_APP_TOKEN_USERNAME=<tu_usuario>
+
+REACT_APP_TOKEN_PASSWORD=<tu_contraseña>
+```
